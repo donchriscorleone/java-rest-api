@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a83d0d1-86ef-4bba-bac8-0b1dfef8c289" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonplaceholder/JsonPlaceholder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonplaceholder/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonplaceholder/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jsonplaceholder/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jsonplaceholder/Todo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jsonplaceholder/JsonPlaceholder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jsonplaceholder/JsonPlaceholder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IBDzDeEWXzz59pszyiJuXNBspZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
